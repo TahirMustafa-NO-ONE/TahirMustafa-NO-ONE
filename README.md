@@ -1,6 +1,6 @@
 # Hi, I'm Tahir Mustafa 👋
 
-[LinkedIn](https://www.linkedin.com/in/tahir-mustafa-2b385b2b9/) · [Email](mailto:tahirmustafa161123@email.com) · [GitHub](https://github.com/TahirMustafa-NO-ONE) · [Portfolio](https://tahirmustafa.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/tahir-mustafa-2b385b2b9/) · [Email](mailto:tahirmustafa161123@gmail.com) · [GitHub](https://github.com/TahirMustafa-NO-ONE) · [Portfolio](https://tahirmustafa.vercel.app)
 
 **Software Engineer** based in Lahore, Pakistan 🇵🇰  
 I build clean, scalable web and mobile apps — from idea to deployment.
