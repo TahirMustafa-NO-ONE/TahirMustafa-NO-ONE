@@ -1,5 +1,7 @@
 # Hi, I'm Tahir Mustafa 👋
 
+[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:your@email.com) · [GitHub](https://github.com/TahirMustafa-NO-ONE) · [Portfolio](https://your-portfolio.com)
+
 **Software Engineer** based in Lahore, Pakistan 🇵🇰  
 I build clean, scalable web and mobile apps — from idea to deployment.
 
@@ -46,9 +48,3 @@ Modern food ordering platform — fast, scalable, delicious.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TahirMustafa-NO-ONE&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirMustafa-NO-ONE&layout=compact&theme=default&hide_border=true)
-
----
-
-### 📬 Get in Touch
-
-[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:your@email.com) · [GitHub](https://github.com/TahirMustafa-NO-ONE)
